@@ -85,7 +85,7 @@ def download_images(api_key, model_id, model_version_id, download_folder):
 # Main function to handle user input
 def main():
     # Prompt for API key
-    api_key = "465064830f1753e0a626ce6b54b8ec13"
+    api_key = "12345678901234567890123456789012"
 
     # Select download folder
     Tk().withdraw()
